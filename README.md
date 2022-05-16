@@ -27,6 +27,6 @@ You can initiate a request by going to http://127.0.0.1:8000/
 
 ![image](https://user-images.githubusercontent.com/101140452/168677314-3e5e673b-42ce-413e-bd84-8b717b22dfed.png)
 ***
-The environment variables are in the directory, the .env file
+Environment variables are in the directory, the .env file
    
 
