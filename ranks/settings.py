@@ -90,9 +90,9 @@ WSGI_APPLICATION = 'ranks.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'new',
-        'USER': 'juice',
-        'PASSWORD': '21322132',
+        'NAME': 'postgres',
+        'USER': 'postgres',
+        'PASSWORD': 'postgres',
         'HOST': '',
         'PORT': 5432,
     }
