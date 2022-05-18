@@ -29,4 +29,3 @@ You can initiate a request by going to http://127.0.0.1:8000/
 ***
 Environment variables are in the directory, the .env file
    
-
